@@ -7,12 +7,16 @@
 [Note](/trips/aggy_dig_2024.md)
 
 **[19/06]**: *Notts 2, Yorkshire Dales*
+[Note](/trips/notts_2024.md)
 
 **[18/06]**: *Bull Pot, Yorkshire Dales* 
+[Note](/trips/bull_pot_2024.md)
 
 **[13/06]**: *Ogof Ffynnon Ddu 1, South Wales* 
+[Note](/trips/ofd_13_06_24.md)
 
 **[12/06]**: *Ogof Ffynnon Ddu 2, South Wales* 
+[Note](/trips/ofd_12_06_24.md)
 
 **[01/06]**: *Afton Red Rift, Devon* 
 
