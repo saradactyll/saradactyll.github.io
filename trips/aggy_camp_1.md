@@ -2,3 +2,4 @@
 ## 16/02-17/02: Agen Allwedd Camp
 
 **People**: Alex, Benedict, Sarah
+**Duration**: 23 hours
