@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 # Sarah's Caving Log
 
 ## Trips Log
