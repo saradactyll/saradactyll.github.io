@@ -47,16 +47,22 @@
 
 ### 2023
 **[?]**: *Ogof Draenen, South Wales*
+[Note](/trips/2023/Draenan.md)
 
 **[26/11]**: *Jingling, Yorkshire Dales*
+[Note](/trips/2023/jingling.md)
 
 **[25/11]**: *Bull Pot, Yorkshire Dales*
+[Note](/trips/2023/bullpot.md)
 
 **[18/11]**: *Ogof Ffynnon Ddu 2, South Wales*
+[Note](/trips/2023/ofd2_26.md)
 
 **[17/11]**: *Ogof Ffynnon Ddu 2, South Wales*
+[Note](/trips/2023/ofd2_25.md)
 
 **[04/11]**: *Swildons, Mendip*
+[Note](/trips/2023/swildons_4.md)
 
 **[03/11]**: *Fairy, Mendip*
 
