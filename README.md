@@ -4,7 +4,7 @@
 ## Trips Log
 ### 2024
 **[04/08 - 08/08]**: *Agen Allwedd Camp + dig, South Wales* 
-[Note](/trips/aggy_dig_2024.md)
+[Report](/trips/aggy_dig_2024.md)
 
 **[19/06]**: *Notts 2, Yorkshire Dales*
 [Note](/trips/notts_2024.md)
