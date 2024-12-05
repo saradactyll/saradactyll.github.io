@@ -34,12 +34,16 @@
 [Note](/trips/knave.md)
 
 **[?]**: *Ogof Ffynnon Ddu 1, South Wales*
+[Note](/trips/schecc_ofd_24.md)
 
 **[16/02-17/02]**: *Agen Allwedd Camp, South Wales*
+[Note](/trips/aggy_camp_1.md)
 
 **[29/01]**: *GB, Mendip*
+[Note](/trips/gb_24.md)
 
 **[28/01]**: *Swildons, Mendip*
+[Note](/trips/swildons_24.md)
 
 ### 2023
 **[?]**: *Ogof Draenen, South Wales*
