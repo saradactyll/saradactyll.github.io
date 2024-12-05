@@ -19,14 +19,19 @@
 [Note](/trips/ofd_12_06_24.md)
 
 **[01/06]**: *Afton Red Rift, Devon* 
+[Note](/trips/afton_2024.md)
 
 **[01/06]**: *Prid, Devon* 
+[Note](/trips/prid_2024.md)
 
-**[17/03]**: *Nettle Pot, Peak District* 
+**[17/03]**: *Nettle Pot, Peak District*
+[Note](/trips/nettle_2024.md)
 
 **[16/03]**: *Giants Hole, Peak District*
+[Note](/trips/giants_2024.md)
 
 **[?]**: *Ogof Ffynnon Ddu 1, South Wales*
+[Note](/trips/knave.md)
 
 **[?]**: *Ogof Ffynnon Ddu 1, South Wales*
 
