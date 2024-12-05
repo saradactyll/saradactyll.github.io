@@ -3,7 +3,7 @@
 
 ## Trips Log
 ### 2024
-**[04/08 - 08/08]**: *Agen Allwedd, South Wales* 
+**[04/08 - 08/08]**: *Agen Allwedd Camp + dig, South Wales* 
 [test](test.md)
 
 **[19/06]**: *Notts 2, Yorkshire Dales*
@@ -26,7 +26,7 @@
 
 **[?]**: *Ogof Ffynnon Ddu 1, South Wales*
 
-**[16/02-17/02]**: *Agen Allwedd, South Wales*
+**[16/02-17/02]**: *Agen Allwedd Camp, South Wales*
 
 **[29/01]**: *GB, Mendip*
 
