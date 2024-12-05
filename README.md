@@ -8,9 +8,9 @@
 
 **[18/06]**: *Bull Pot, Yorkshire Dales* 
 
-**[13/06]**: *OFD 1, South Wales* 
+**[13/06]**: *Ogof Ffynnon Ddu 1, South Wales* 
 
-**[12/06]**: *OFD 2, South Wales* 
+**[12/06]**: *Ogof Ffynnon Ddu 2, South Wales* 
 
 **[01/06]**: *Afton Red Rift, Devon* 
 
@@ -20,9 +20,9 @@
 
 **[16/03]**: *Giants Hole, Peak District*
 
-**[?]**: *OFD 1, South Wales*
+**[?]**: *Ogof Ffynnon Ddu 1, South Wales*
 
-**[?]**: *OFD 1, South Wales*
+**[?]**: *Ogof Ffynnon Ddu 1, South Wales*
 
 **[16/02-17/02]**: *Agen Allwedd, South Wales*
 
@@ -37,17 +37,17 @@
 
 **[25/11]**: *Bull Pot, Yorkshire Dales*
 
-**[18/11]**: *OFD 2, South Wales*
+**[18/11]**: *Ogof Ffynnon Ddu 2, South Wales*
 
-**[17/11]**: *OFD 2, South Wales*
+**[17/11]**: *Ogof Ffynnon Ddu 2, South Wales*
 
 **[04/11]**: *Swildons, Mendip*
 
 **[03/11]**: *Fairy, Mendip*
 
-**[15/10]**: *OFD 1, South Wales*
+**[15/10]**: *Ogof Ffynnon Ddu 1, South Wales*
 
-**[14/10]**: *OFD 2, South Wales*
+**[14/10]**: *Ogof Ffynnon Ddu 2, South Wales*
 
 **[25/06]**: *Reeds, Devon*
 
@@ -57,7 +57,7 @@
 
 **[?]**: *GB, Mendip*
 
-**[?]**: *OFD 2, South Wales*
+**[?]**: *Ogof Ffynnon Ddu 2, South Wales*
 
 **[12/02]**: *Peak Cavern, Peak District*
 
@@ -71,9 +71,9 @@
 
 **[05/11]**: *Swildons, Mendip*
 
-**[09/10]**: *OFD 1, South Wales*
+**[09/10]**: *Ogof Ffynnon Ddu 1, South Wales*
 
-**[08/10]**: *OFD 2, South Wales*
+**[08/10]**: *Ogof Ffynnon Ddu 2, South Wales*
 
 ### 2021
 **[?]**: *Bull Pot of the Witches, Yorkshire Dales*
