@@ -3,4 +3,4 @@
 
 **People**: Sarah, Holly, Max, Nathan, Mobi
 
-<img src="notts.jpeg" alt="Description" width="500">
+<img src="/images/notts.jpeg" alt="Description" width="500">
