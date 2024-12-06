@@ -4,8 +4,8 @@
 **People**: Sarah, Vedant, Hette, Amber
 
 
-<img src="images/hette and amber.jpeg" alt="Description" width="500">
-<img src="images/judge.jpeg" alt="Description" width="500">
-<img src="images/hette.jpeg" alt="Description" width="500">
-<img src="images/moi.jpeg" alt="Description" width="500">
-<img src="images/on hill.jpeg" alt="Description" width="500">
+<img src="images/hette and amber.jpg" alt="Description" width="500">
+<img src="images/judge.jpg" alt="Description" width="500">
+<img src="images/hette.jpg" alt="Description" width="500">
+<img src="images/moi.jpg" alt="Description" width="500">
+<img src="images/on hill.jpg" alt="Description" width="500">
