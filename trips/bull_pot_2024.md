@@ -2,9 +2,6 @@
 ## 19 June 2024: Bull Pot
 
 **People**: Sarah, Holly, Max, Nathan, Mobi
-# Sarah's Caving Log
-
-Welcome to my caving adventures! Below is a gallery of some amazing caves I've explored.
 
 <div class="image-grid">
     <div>
