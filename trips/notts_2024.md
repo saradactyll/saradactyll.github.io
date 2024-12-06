@@ -2,3 +2,5 @@
 ## 20 June 2024: Notts 2
 
 **People**: Sarah, Holly, Max, Nathan, Mobi
+
+![](notts.jpeg)
