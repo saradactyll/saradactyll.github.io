@@ -5,28 +5,22 @@
 
 <div class="image-grid">
     <div>
-        <img src="images/bull1.jpg" alt="Ogof Ffynnon Ddu">
-        <p>Ogof Ffynnon Ddu</p>
+        <img src="images/bull1.jpg">
     </div>
     <div>
-        <img src="images/bull2.jpeg" alt="Swildon's Hole">
-        <p>Swildon's Hole</p>
+        <img src="images/bull2.jpeg">
     </div>
     <div>
-        <img src="images/bull3.jpeg" alt="Alum Pot">
-        <p>Alum Pot</p>
+        <img src="images/bull3.jpeg">
     </div>
     <div>
-        <img src="images/1733449617136.jpeg" alt="Dan yr Ogof">
-        <p>Dan yr Ogof</p>
+        <img src="images/1733449617136.jpeg">
     </div>
     <div>
-        <img src="images/1733449617158.jpeg" alt="Porth yr Ogof">
-        <p>Porth yr Ogof</p>
+        <img src="images/1733449617158.jpeg">
     </div>
     <div>
-        <img src="images/1733449617181.jpeg" alt="King Pot">
-        <p>King Pot</p>
+        <img src="images/1733449617181.jpeg">
     </div>
 </div>
 
