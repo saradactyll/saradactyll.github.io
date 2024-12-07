@@ -6,27 +6,27 @@
 <div class="image-grid">
     <div>
         <img src="images/bull1.jpg" alt="Ogof Ffynnon Ddu">
-        <p>test</p>
+        <p>Ogof Ffynnon Ddu</p>
     </div>
     <div>
         <img src="images/bull2.jpeg" alt="Swildon's Hole">
-        <p></p>
+        <p>Swildon's Hole</p>
     </div>
     <div>
         <img src="images/bull3.jpeg" alt="Alum Pot">
-        <p></p>
+        <p>Alum Pot</p>
     </div>
     <div>
         <img src="images/1733449617136.jpeg" alt="Dan yr Ogof">
-        <p></p>
+        <p>Dan yr Ogof</p>
     </div>
     <div>
         <img src="images/1733449617158.jpeg" alt="Porth yr Ogof">
-        <p></p>
+        <p>Porth yr Ogof</p>
     </div>
     <div>
         <img src="images/1733449617181.jpeg" alt="King Pot">
-        <p></p>
+        <p>King Pot</p>
     </div>
 </div>
 
@@ -48,7 +48,8 @@ body {
 
 .image-grid img {
     width: 100%;
-    height: auto;
+    height: 200px; /* Set a fixed height for uniformity */
+    object-fit: cover; /* Ensures images fill the space without distortion */
     border-radius: 8px;
     border: 3px solid #444;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
@@ -83,11 +84,6 @@ body {
     }
 }
 </style>
-
-
-
-
-
 
 
 
