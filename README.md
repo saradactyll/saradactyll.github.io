@@ -1,4 +1,14 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FB0MXVVDVV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FB0MXVVDVV');
+</script>
 <link rel="stylesheet" href="styles.css">
+
 # Sarah's Caving Log
 
 ## Trips Log
