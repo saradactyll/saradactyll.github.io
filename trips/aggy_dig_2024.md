@@ -32,7 +32,7 @@ All in all, an excellent trip with excellent company, can’t think of a better 
         <img src="images/Aggy dig/ok.jpg">
     </div>
     <div>
-        <img src="images/pre cave.jpg">
+        <img src="images/Aggy dig/pre cave.jpg">
     </div>
 </div>
 
