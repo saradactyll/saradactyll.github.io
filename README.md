@@ -13,6 +13,11 @@
 
 ## Trips Log
 ### 2024
+
+**[15/12]**: *Cwm Dwr to OFD 1 through trip, South Wales* 
+
+**[14/12]**: *Ogof Ffynnon Ddu 1.5, South Wales* 
+
 **[04/08 - 08/08]**: *Agen Allwedd Camp + dig, South Wales* 
 [Report](/trips/aggy_dig_2024.md)
 
