@@ -19,6 +19,7 @@
 **[03/01]**: *Cwm Dwr -> 1, Ogof Ffynnon Ddu* 
 
 **[02/01]**: *Frozen River, Ogof Ffynnon Ddu 2* 
+[Note](/trips/2025/New_Year/02_01.md)
 
 ### 2024
 
