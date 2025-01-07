@@ -12,6 +12,14 @@
 # Sarah's Caving Log
 
 ## Trips Log
+### 2025
+
+**[04/01]**: *The Knave, OFD, South Wales* 
+
+**[03/01]**: *Cwm Dwr to OFD 1 through trip, South Wales* 
+
+**[02/01]**: *Frozen River, OFD, South Wales* 
+
 ### 2024
 
 **[15/12]**: *Cwm Dwr to OFD 1 through trip, South Wales* 
