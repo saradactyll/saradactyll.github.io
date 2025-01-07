@@ -14,17 +14,17 @@
 ## Trips Log
 ### 2025
 
-**[04/01]**: *The Knave, OFD, South Wales* 
+**[04/01]**: *The Knave, Ogof Ffynnon Ddu 2*
 
-**[03/01]**: *Cwm Dwr to OFD 1 through trip, South Wales* 
+**[03/01]**: *Cwm Dwr -> 1, Ogof Ffynnon Ddu* 
 
-**[02/01]**: *Frozen River, OFD, South Wales* 
+**[02/01]**: *Frozen River, Ogof Ffynnon Ddu 2* 
 
 ### 2024
 
-**[15/12]**: *Cwm Dwr to OFD 1 through trip, South Wales* 
+**[15/12]**: *Cwm Dwr -> 1, Ogof Ffynnon Ddu* 
 
-**[14/12]**: *Ogof Ffynnon Ddu 1.5, South Wales* 
+**[14/12]**: *Letter Box, Ogof Ffynnon Ddu 1.5* 
 
 **[04/08 - 08/08]**: *Agen Allwedd Camp + dig, South Wales* 
 [Report](/trips/aggy_dig_2024.md)
