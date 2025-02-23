@@ -15,8 +15,10 @@
 ### 2025
 
 **[04/01]**: *The Knave, Ogof Ffynnon Ddu 2*
+[Note](/trips/2025/New_Year/04_01.md)
 
 **[03/01]**: *Cwm Dwr -> 1, Ogof Ffynnon Ddu* 
+[Note](/trips/2025/New_Year/03_01.md)
 
 **[02/01]**: *Frozen River, Ogof Ffynnon Ddu 2* 
 [Note](/trips/2025/New_Year/02_01.md)
