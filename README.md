@@ -14,6 +14,14 @@
 ## Trips Log
 ### 2025
 
+**[03/08]**: *Titan Shaft, Peak District*
+
+**[02/08]**: *Titan Shaft, Peak District*
+
+**[08/06]**: *Bakers Pit, Devon*
+
+**[07/06]**: *Bakers Pit, Devon*
+
 **[04/01]**: *The Knave, Ogof Ffynnon Ddu 2*
 [Note](/trips/2025/New_Year/04_01.md)
 
