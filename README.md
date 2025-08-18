@@ -14,8 +14,8 @@
 ## Trips Log
 ### 2025
 
-
 **[15/08-17/08]**: *Digging camp, Agen Allwedd, South Wales*
+[Trip Report](/trips/2025/Agen Allwedd/04_01.md)
 
 **[03/08]**: *Titan Shaft, Peak District*
 
