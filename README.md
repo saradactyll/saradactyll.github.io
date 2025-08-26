@@ -9,10 +9,16 @@
 </script>
 <link rel="stylesheet" href="styles.css">
 
-# Sarah's Caving Log
+# Sarah's (mostly) Caving Log
 
 ## Trips Log
 ### 2025
+
+**[23/08]**: *Crib Goch, North Wales*
+[Note]().
+
+**[23/08]**: *Tryfan (North face), North Wales*
+[Note]().
 
 **[15/08-17/08]**: *Digging camp, Agen Allwedd, South Wales*
 [Trip Report](trips/digging/aggy3.md).
