@@ -14,6 +14,12 @@
 ## Trips Log
 ### 2025
 
+**[31/08]**: *Goatschurch, Mendip*
+[Note]().
+
+**[30/08]**: *Otter Hole, Chepstow*
+[Note]().
+
 **[23/08]**: *Crib Goch, North Wales*
 [Note]().
 
