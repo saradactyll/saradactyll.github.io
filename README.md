@@ -14,6 +14,8 @@
 ## Trips Log
 ### 2025
 
+**[05/09-07/09]**: *Digging Camp, Agen Allwedd*
+
 **[31/08]**: *Goatschurch, Mendip*
 [Note]().
 
