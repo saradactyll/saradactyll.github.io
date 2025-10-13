@@ -20,6 +20,8 @@
 
 **[11/10]**: *Goatchurch, Mendip*
 
+**[26/09-28/09]**: *Hidden Earth, Llangollen*
+
 **[05/09-07/09]**: *Digging Camp, Agen Allwedd*
 
 **[31/08]**: *Goatschurch, Mendip*
