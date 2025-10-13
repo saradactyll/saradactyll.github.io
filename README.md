@@ -14,6 +14,12 @@
 ## Trips Log
 ### 2025
 
+**[12/10]**: *GB, Mendip*
+
+**[11/10]**: *Swildons Hole, Mendip*
+
+**[11/10]**: *Goatchurch, Mendip*
+
 **[05/09-07/09]**: *Digging Camp, Agen Allwedd*
 
 **[31/08]**: *Goatschurch, Mendip*
