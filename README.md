@@ -15,6 +15,7 @@
 ### 2025
 
 **[12/10]**: *GB, Mendip*
+[Trip Report](trips/october_2025/GB.md).
 
 **[11/10]**: *Swildons Hole, Mendip*
 
