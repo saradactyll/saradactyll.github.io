@@ -15,11 +15,13 @@
 ### 2025
 
 **[12/10]**: *GB, Mendip*
-[Trip Report](trips/october_2025/GB.md).
+[note](trips/October_2025/GB.md).
 
 **[11/10]**: *Swildons Hole, Mendip*
+[note](trips/October_2025/swildons.md).
 
 **[11/10]**: *Goatchurch, Mendip*
+[note](trips/October_2025/goatchurch.md).
 
 **[26/09-28/09]**: *Hidden Earth, Llangollen*
 
