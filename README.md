@@ -14,6 +14,12 @@
 ## Trips Log
 ### 2025
 
+**[19/10]**: *Ogof Ffynnon Ddu 3, South Wales*
+[note]().
+
+**[18/10]**: *Ogof Ffynnon Ddu 1, South Wales*
+[note]().
+
 **[12/10]**: *GB, Mendip*
 [note](trips/October_2025/GB.md).
 
