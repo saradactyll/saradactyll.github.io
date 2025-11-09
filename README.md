@@ -14,6 +14,12 @@
 ## Trips Log
 ### 2025
 
+**[9/1l]**: *St Cuthberts Swallet, Mendip*
+[note]().
+
+**[8/11]**: *Swildons Hole, Mendip*
+[note]().
+
 **[19/10]**: *Ogof Ffynnon Ddu 3, South Wales*
 [note]().
 
