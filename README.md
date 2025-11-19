@@ -14,7 +14,13 @@
 ## Trips Log
 ### 2025
 
-**[9/1l]**: *St Cuthberts Swallet, Mendip*
+**[16/11]**: *the ledges, OFD 3*
+[note]().
+
+**[15/11]**: *Cwm Dwr -> 1, OFD*
+[note]().
+
+**[9/11]**: *St Cuthberts Swallet, Mendip*
 [note]().
 
 **[8/11]**: *Swildons Hole, Mendip*
