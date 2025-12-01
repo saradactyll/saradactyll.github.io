@@ -14,6 +14,9 @@
 ## Trips Log
 ### 2025
 
+**[29/11]**: *the Geryon / Circus Maximus / Nicola's Grotto, Ogof Draenen*
+[note]().
+
 **[16/11]**: *the ledges, OFD 3*
 [note]().
 
