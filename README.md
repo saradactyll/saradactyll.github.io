@@ -14,6 +14,12 @@
 ## Trips Log
 ### 2025
 
+**[14/12]**: *Daren-Cwnc, Daren Cilau*
+[note]()
+
+**[13/12]**: *Porth yr Ogof*
+[note]()
+
 **[29/11]**: *the Geryon / Circus Maximus / Nicola's Grotto, Ogof Draenen*
 [note]().
 
