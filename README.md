@@ -12,6 +12,13 @@
 # Sarah's Caving Log
 
 ## Trips Log
+
+### 2026
+
+**[14/12]**: *Slaughter Stream, Forest of Dean*
+[note]()
+
+ 
 ### 2025
 
 **[14/12]**: *Daren-Cwnc, Daren Cilau*
