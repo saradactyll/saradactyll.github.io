@@ -15,6 +15,9 @@
 
 ### 2026
 
+**[07/02 - 08/02]**: *Hard Rock Cafe Camp, Daren Cilau*
+[note]()
+
 **[01/02]**: *Windrush Stone Quarry, The Chilterns*
 [note]()
 
