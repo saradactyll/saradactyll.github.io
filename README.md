@@ -15,6 +15,9 @@
 
 ### 2026
 
+**[21/02]**: *CHECC Survey trip, OFD*
+[note]()
+
 **[13/02 - 15/02]**: *Digging Camp, Agen Allwedd*
 [note]()
 
