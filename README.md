@@ -14,11 +14,19 @@
 ## Trips Log
 
 ### 2026
+**[19/04]**: *Dan yr Ogof Round Trip*
+[note]()
+
+**[18/04]**: *Nynth Bran Series, OFD*
+[note]()
+
+**[18/04]**: *Cwm dwr - 1, OFD*
+[note]()
 
 **[29/03]**: *Waterfall Series, OFD 1*
 [note]()
 
-**[28/03]**: *Smiths Armoury, OFD 3*
+**[28/03]**: *Smiths Armoury + Nynth Bran Series, OFD 3*
 [note]()
 
 **[27/03]**: *OFD top rigging trip*
