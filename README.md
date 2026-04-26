@@ -14,6 +14,13 @@
 ## Trips Log
 
 ### 2026
+
+**[26/04]**: *Daren through trip*
+[note]()
+
+**[25/04]**: *Aggy Music Room & Main Streamway*
+[note]()
+
 **[19/04]**: *Dan yr Ogof Round Trip*
 [note]()
 
